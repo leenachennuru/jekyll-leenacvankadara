@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Reinterpreting causal discovery as the task of predicting unobserved joint statistics"
+    authors: "Dominik Janzing, Philipp M. Faller, <b>Leena C Vankadara</b>"
+    venue: "A preprint: Arxiv'2023"
+    paper_pdf: "https://arxiv.org/abs/2305.06894"
+    selected: y
+
   - title: "A Consistent Estimator for Confounding Strength"
     authors: "Luca Rendsburg<sup>‡</sup>, <b>Leena C Vankadara<sup>‡</sup></b>, Debarghya Ghosdastidar, Ulrike von Luxburg"
     venue: "A preprint: Arxiv'2022"
@@ -40,7 +46,7 @@ papers:
 
   - title: "Insights into Ordinal Embedding Algorithms - A Systematic Evaluation"
     authors: "<b>Leena C Vankadara</b>, Michael Lohaus, Siavash Haghiri, Faiz Ul Wahab, Ulrike von Luxburg"
-    venue: "Arxiv. 2020"
+    venue: "JMLR. 2023"
     paper_pdf: "https://arxiv.org/pdf/1912.01666.pdf"
     selected: n
 
