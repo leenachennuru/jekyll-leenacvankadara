@@ -1,9 +1,33 @@
 papers:
 
+  - title: "On Feature Learning in Structured State Space Sequence Models"
+    authors: "<b>Leena C Vankadara*</b>, Jin Xu*, Moritz Haas, Volkan Cevher"
+    venue: "ICML NGSM Workshop 2024 <b style=color:#800020;>(Spotlight; Runner up for the best paper award)</b>"
+    paper_pdf: "https://sites.google.com/view/ngsmworkshop/accepted-papers?authuser=0"
+    selected: y
+
+  - title: "Effective Sharpness Aware Minimization Requires Layerwise Perturbation Scaling"
+    authors: "Moritz Haas, Jin Xu, Volkan Cevher, <b>Leena C Vankadara</b>"
+    venue: "ICML HiLD Workshop 2024"
+    paper_pdf: "https://openreview.net/forum?id=Qo6KUhQkPw"
+    selected: y
+
+  - title: "Self-compatibility: Evaluating causal discovery without ground truth"
+    authors: "Philipp M Faller, <b>Leena C Vankadara</b>, Atalanti A Mastakouri, Francesco Locatello, Dominik Janzing"
+    venue: "AISTATS 2024"
+    paper_pdf: "https://arxiv.org/abs/2307.09552"
+    selected: y
+
   - title: "Reinterpreting causal discovery as the task of predicting unobserved joint statistics"
     authors: "Dominik Janzing, Philipp M. Faller, <b>Leena C Vankadara</b>"
     venue: "A preprint: Arxiv'2023"
     paper_pdf: "https://arxiv.org/abs/2305.06894"
+    selected: y
+
+  - title: "Explaining Kernel Clustering via Decision Trees"
+    authors: "Maximilian Fleissner, <b>Leena C Vankadara</b>, Debarghya Ghoshdastidar"
+    venue: "ICLR 2024"
+    paper_pdf: "https://arxiv.org/abs/2402.09881"
     selected: y
 
   - title: "A Consistent Estimator for Confounding Strength"
@@ -40,7 +64,7 @@ papers:
 
   - title: "Recovery Guarantees for Kernel-based Clustering under Non-parametric Mixture Models"
     authors: "<b>Leena C Vankadara</b>, Sebastian Bordt, Ulrike von Luxburg, Debarghya Ghoshdastidar"
-    venue: "AISTATS'21: Artificial Intelligence and Statistics. 2021 <b style=color:Tomato;>(Oral presentation; 3% of all submissions)</b>"
+    venue: "AISTATS'21: Artificial Intelligence and Statistics. 2021 <b style=color:#800020;>(Oral presentation; 3% of all submissions)</b>"
     paper_pdf: "http://proceedings.mlr.press/v130/vankadara21a/vankadara21a.pdf"
     selected: y
 
@@ -60,7 +84,7 @@ papers:
     authors: "<b>Leena C Vankadara</b>, Ulrike von Luxburg"
     venue: "NeurIPS'18: Neural Information Processing Systems. 2018"
     paper_pdf: "https://proceedings.neurips.cc/paper/2018/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf"
-    selected: y
+    selected: n
 
   # - title: "Me, My Echo Chamber, and I: Introspection on Social Media Polarization"
   #   authors: "Nabeel Gillani, Ann Yuan, <b>Martin Saveski</b>, Soroush Vosoughi, Deb Roy"
